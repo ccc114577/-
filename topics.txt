@@ -1,0 +1,12 @@
+-- +++ processing catkin package: 'open3d_loc'
+-- ==> add_subdirectory(open3d_loc)
+CMake Error at open3d_loc/CMakeLists.txt:20 (find_package):
+  By not providing "FindOpen3D.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "Open3D", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "Open3D" with any
+  of the following names:
+
+    Open3DConfig.cmake
+    open3d-config.cmake

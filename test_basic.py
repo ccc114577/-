@@ -1,0 +1,14 @@
+/accepted_trajectory
+/base_link_pose
+/clicked_point
+/cmd_vel
+/grid_map/occupancy
+/grid_map/occupancy_inflate
+/move_base_simple/goal
+/Odometry_loc
+/pct_path
+/ego_planner_node/goal_point
+/ego_planner_node/global_list
+/ego_planner_node/optimal_list
+/tf
+/tf_static

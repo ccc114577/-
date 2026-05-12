@@ -1,0 +1,7 @@
+--- stderr: hesai_ros_driver
+CMake Error at CMakeLists.txt:167 (add_subdirectory):
+  The source directory
+
+    /root/unitree_ws/src/HesaiLidar_ROS_2.0/src/driver/HesaiLidar_SDK_2.0
+
+  does not contain a CMakeLists.txt file.
